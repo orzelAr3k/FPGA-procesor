@@ -1,0 +1,19 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+E:/SR/procesor/procesor.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,,,,,,,
+E:/SR/procesor/procesor.srcs/sim_1/new/tb_procesor.v,1654026431,verilog,,,,tb_processor,,,,,,,,
+E:/SR/procesor/procesor.srcs/sources_1/import/d_mem.v,1653323197,verilog,,E:/SR/procesor/procesor.srcs/sources_1/new/decoder.v,,d_mem,,,,,,,,
+E:/SR/procesor/procesor.srcs/sources_1/import/i_mem.v,1654111816,verilog,,E:/SR/procesor/procesor.srcs/sources_1/new/imm_mux.v,,i_mem,,,,,,,,
+E:/SR/procesor/procesor.srcs/sources_1/new/ALU.v,1653508999,verilog,,E:/SR/procesor/procesor.srcs/sources_1/new/alu_mux.v,,ALU,,,,,,,,
+E:/SR/procesor/procesor.srcs/sources_1/new/alu_mux.v,1653322711,verilog,,E:/SR/procesor/procesor.srcs/sources_1/import/d_mem.v,,alu_mux,,,,,,,,
+E:/SR/procesor/procesor.srcs/sources_1/new/decoder.v,1653138298,verilog,,E:/SR/procesor/procesor.srcs/sources_1/import/i_mem.v,,decoder,,,,,,,,
+E:/SR/procesor/procesor.srcs/sources_1/new/imm_mux.v,1653141341,verilog,,E:/SR/procesor/procesor.srcs/sources_1/new/jump_cond.v,,imm_mux,,,,,,,,
+E:/SR/procesor/procesor.srcs/sources_1/new/jump_cond.v,1653889541,verilog,,E:/SR/procesor/procesor.srcs/sources_1/new/pc_mux.v,,jump_cond,,,,,,,,
+E:/SR/procesor/procesor.srcs/sources_1/new/pc_mux.v,1653139390,verilog,,E:/SR/procesor/procesor.srcs/sources_1/new/procesor.v,,pc_mux,,,,,,,,
+E:/SR/procesor/procesor.srcs/sources_1/new/procesor.v,1654024261,verilog,,E:/SR/procesor/procesor.srcs/sources_1/new/rd_mux.v,,procesor,,,,,,,,
+E:/SR/procesor/procesor.srcs/sources_1/new/rd_mux.v,1653139127,verilog,,E:/SR/procesor/procesor.srcs/sources_1/new/register.v,,rd_mux,,,,,,,,
+E:/SR/procesor/procesor.srcs/sources_1/new/register.v,1653321831,verilog,,E:/SR/procesor/procesor.srcs/sources_1/new/rx_mux.v,,register,,,,,,,,
+E:/SR/procesor/procesor.srcs/sources_1/new/rx_mux.v,1653139762,verilog,,E:/SR/procesor/procesor.srcs/sources_1/new/ry_mux.v,,rx_mux,,,,,,,,
+E:/SR/procesor/procesor.srcs/sources_1/new/ry_mux.v,1653323464,verilog,,E:/SR/procesor/procesor.srcs/sim_1/new/tb_procesor.v,,ry_mux,,,,,,,,
